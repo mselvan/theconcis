@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mselvan.github.io/theconcis/sitemap.xml
+Sitemap: https://theconcis.com//sitemap.xml
