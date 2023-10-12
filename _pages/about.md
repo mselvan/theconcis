@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Unveiling the narratives of global conflicts.
-
+subtitle: >
+  <i>Unveiling the narratives of global conflicts.<i/>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    8 Tanusanlage
-    60329 Frankfurt am Main
+  more_info: 
+    
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -2,17 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: The Concis | Shankar Narayan # the website title (if blank, full name will be used instead)
+title: Shankar Narayan | The Concis # the website title (if blank, full name will be used instead)
 first_name: Shankar
 middle_name:
 last_name: Narayan
 email: shankar@theconcis.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Poet ⭐
-  Writer ⭐
-  Political Activist ⭐
-  Medium: http://shankar20.medium.com 🌐
-  Substack: http://shankarnarayan.substack.com 🌐
+description:
 footer_text:
 keywords: israel, russia, palestine, war, civil, conflict, geopolitics, politics  # add your own keywords or leave empty
 
