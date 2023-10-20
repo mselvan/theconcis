@@ -8,8 +8,13 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: 
-    
+  more_info: >
+    <center>
+    <b><a href="https://shankar20.medium.com/">Medium</a></b>
+    <br/>
+    <b><a href="https://shankarnarayan.substack.com/">Substack</a></b>
+    <br/>
+    </center>
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
