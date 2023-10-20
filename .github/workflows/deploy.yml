@@ -1,6 +1,8 @@
 name: deploy
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # This schedules the workflow to run at midnight every day
   push:
     branches:
       - master
